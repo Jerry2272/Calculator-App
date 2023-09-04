@@ -62,7 +62,8 @@ a{
     text-align: right;
 }
 .calculator form .eval {
-    color: red;
-    font-weight: 800;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
     
 }
